@@ -1,1 +1,2 @@
-# rsschool-2019Q1-html-css
+Kiryl Aleksandrovich
+HTML CSS Basics: https://www.codecademy.com/users/kiryl.Alexandrovich/achievements
